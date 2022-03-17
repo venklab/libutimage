@@ -1,0 +1,8 @@
+
+__pycache__/
+*.bak
+*.swp
+*.o
+*.d
+*.so
+tags
